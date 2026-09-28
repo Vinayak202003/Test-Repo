@@ -1,3 +1,6 @@
 first line
+<<<<<<< HEAD
 second line
 Third line
+=======
+>>>>>>> parent of ea23e8e (edited t2.txt)
